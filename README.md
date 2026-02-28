@@ -1,5 +1,9 @@
 🚇 MTA Daily Ridership Analysis
 📊 Data-Driven Insights and Forecasting for Transit Demand
+
+
+---
+
 👥 Team Members
 
 Ibrahim Ahmed 👨‍💻
@@ -12,13 +16,30 @@ Arwa Youssef 👩‍💻
 
 Aya Ahmed 👩‍💻
 
+
+
+---
+
 🎓 Instructor
 
 Amal Mahmoud 👩‍🏫
 
+
+---
+
 📌 Project Overview
 
 🚀 This project analyzes the MTA daily ridership dataset to uncover patterns, trends, and actionable insights that support transportation decision-making. The team will clean and preprocess the data, explore key analytical questions, and build forecasting models to predict future ridership demand. 📈 The final results will be presented through an interactive dashboard and comprehensive report to help stakeholders better understand usage behavior and plan resources efficiently.
+
+
+---
+
+📝 Project Description
+
+This project focuses on transforming raw ridership data into meaningful insights that support smarter transit planning. The work combines data cleaning, analysis, and forecasting to provide a clear understanding of ridership behavior and expected future demand.
+
+
+---
 
 🎯 Project Objectives
 
@@ -29,6 +50,10 @@ Amal Mahmoud 👩‍🏫
 🤖 Build forecasting models to predict future ridership.
 
 📊 Develop an interactive dashboard to communicate insights clearly.
+
+
+
+---
 
 📦 Project Scope
 
@@ -42,9 +67,17 @@ Amal Mahmoud 👩‍🏫
 
 📝 Final reporting and presentation.
 
+
+
+---
+
 ✅ Final Deliverable: 🎯 Interactive Tableau dashboard, 📈 forecasting visualizations, and 📑 a complete analytical report with presentation.
 
+
+---
+
 🗓 Project Plan (5 Weeks)
+
 🔹 Week 1 — Data Modeling & Preprocessing 🧱
 
 🏗 Build data model.
@@ -53,8 +86,12 @@ Amal Mahmoud 👩‍🏫
 
 📓 Prepare data preprocessing notebook.
 
+
 🛠 Tools: SQL, Python (pandas, Matplotlib)
 📦 Deliverables: Cleaned dataset ready for analysis, preprocessing notebook.
+
+
+---
 
 🔹 Week 2 — Analysis Questions Phase ❓
 
@@ -62,8 +99,12 @@ Amal Mahmoud 👩‍🏫
 
 🔍 Explore dataset to support business insights.
 
+
 🛠 Tools: SQL, Python (pandas, Matplotlib)
 📦 Deliverables: Documented set of analysis questions.
+
+
+---
 
 🔹 Week 3 — Forecasting Phase 🔮
 
@@ -73,8 +114,12 @@ Amal Mahmoud 👩‍🏫
 
 📊 Generate forecasting visualizations.
 
+
 🛠 Tools: Python (scikit-learn, pandas, Matplotlib)
 📦 Deliverables: Forecasting plots and prediction results.
+
+
+---
 
 🔹 Week 4 — Dashboard & Final Presentation 🎨
 
@@ -84,6 +129,6 @@ Amal Mahmoud 👩‍🏫
 
 🎤 Create presentation summarizing findings and models.
 
-🛠 Tools: SQL, Python (pandas, Matplotlib), Tableau, Powerbi
-📦 Deliverables: Visualization dashboard, final report, and presentation.
 
+🛠 Tools: SQL, Python (pandas, Matplotlib), Tableau, Power BI
+📦 Deliverables: Visualization dashboard, final report, and presentation.
