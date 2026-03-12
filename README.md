@@ -1,6 +1,4 @@
-🚇 MTA Daily Ridership Analysis
-📊 Data-Driven Insights and Forecasting for Transit Demand
-
+🇪🇬 Egypt Tourism Insights
 
 ---
 
@@ -24,111 +22,56 @@ Aya Ahmed 👩‍💻
 
 Amal Mahmoud 👩‍🏫
 
-
 ---
 
-📌 Project Overview
+📊 Project Overview
+Egypt Tourism Insights is a data analysis project that explores tourism trends in Egypt using interactive data visualization. The goal of this project is to transform raw tourism data into meaningful insights that help understand visitor behavior, tourism growth patterns, and the economic impact of tourism.
+The dashboard provides a clear view of key tourism metrics such as visitor numbers, top destinations, seasonal trends, and tourism revenue.
 
-🚀 This project analyzes the MTA daily ridership dataset to uncover patterns, trends, and actionable insights that support transportation decision-making. The team will clean and preprocess the data, explore key analytical questions, and build forecasting models to predict future ridership demand. 📈 The final results will be presented through an interactive dashboard and comprehensive report to help stakeholders better understand usage behavior and plan resources efficiently.
-
-
----
-
-📝 Project Description
-
-This project focuses on transforming raw ridership data into meaningful insights that support smarter transit planning. The work combines data cleaning, analysis, and forecasting to provide a clear understanding of ridership behavior and expected future demand.
-
-
----
 
 🎯 Project Objectives
-
-🧹 Prepare and clean the ridership dataset for accurate analysis.
-
-🔍 Identify key trends and answer important business questions.
-
-🤖 Build forecasting models to predict future ridership.
-
-📊 Develop an interactive dashboard to communicate insights clearly.
+Analyze tourism trends in Egypt
+Identify the most popular tourist destinations
+Understand seasonal patterns in tourist arrivals
+Measure tourism revenue and growth over time
+Provide insights to support data-driven decisions in the tourism sector
 
 
-
----
-
-📦 Project Scope
-
-🧽 Data cleaning and preprocessing.
-
-🔎 Exploratory data analysis (EDA).
-
-📉 Business and forecasting analysis.
-
-🎨 Data visualization and dashboard creation.
-
-📝 Final reporting and presentation.
+📈 Key Insights
+Monthly and yearly tourism trends
+Top countries visiting Egypt
+Most visited destinations in Egypt
+Seasonal tourism patterns
+Tourism revenue analysis
 
 
-
----
-
-✅ Final Deliverable: 🎯 Interactive Tableau dashboard, 📈 forecasting visualizations, and 📑 a complete analytical report with presentation.
-
-
----
-
-🗓 Project Plan (5 Weeks)
-
-🔹 Week 1 — Data Modeling & Preprocessing 🧱
-
-🏗 Build data model.
-
-🧹 Clean and preprocess the dataset.
-
-📓 Prepare data preprocessing notebook.
+📊 Dashboard Features
+Interactive visualizations
+Filters for year, country, and destination
+KPI cards for key tourism metrics
+Trend analysis charts
+Destination performance analysis
 
 
-🛠 Tools: SQL, Python (pandas, Matplotlib)
-📦 Deliverables: Cleaned dataset ready for analysis, preprocessing notebook.
+🛠️ Tools & Technologies
+Power BI – Data Visualization & Dashboard
+Excel – Data Cleaning & Preparation
+SQL – Data Querying
+Python – Data Analysis (optional)
 
 
----
-
-🔹 Week 2 — Analysis Questions Phase ❓
-
-🧠 Identify key analysis questions relevant to decision makers.
-
-🔍 Explore dataset to support business insights.
-
-
-🛠 Tools: SQL, Python (pandas, Matplotlib)
-📦 Deliverables: Documented set of analysis questions.
+📂 Dataset
+The dataset contains tourism-related data such as:
+Tourist arrivals
+Tourist nationality
+Travel destinations in Egypt
+Monthly and yearly tourism statistics
+Tourism revenue
 
 
----
-
-🔹 Week 3 — Forecasting Phase 🔮
-
-📌 Develop forecasting questions.
-
-🤖 Build models to predict future ridership (including next month).
-
-📊 Generate forecasting visualizations.
-
-
-🛠 Tools: Python (scikit-learn, pandas, Matplotlib)
-📦 Deliverables: Forecasting plots and prediction results.
-
-
----
-
-🔹 Week 4 — Dashboard & Final Presentation 🎨
-
-📊 Build Tableau visualization dashboard.
-
-📑 Prepare final analytical report.
-
-🎤 Create presentation summarizing findings and models.
-
-
-🛠 Tools: SQL, Python (pandas, Matplotlib), Tableau, Power BI
-📦 Deliverables: Visualization dashboard, final report, and presentation.
+🚀 Project Goal
+The main goal of this project is to demonstrate how data analysis and visualization can help uncover tourism trends and support better decision-making in the tourism industry.
+📌 Future Improvements
+Add tourism forecasting using machine learning
+Include hotel occupancy analysis
+Integrate real-time tourism data
