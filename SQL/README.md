@@ -47,7 +47,7 @@ The project covers:
 
 ## ⭐ Data Model
 
-
+![Modeling](https://github.com/Ebrahim-azab/Depi-Graduation-project_Egypt-Tourism-Insights/blob/34da5f2c86dbdbad96503e857dd2bed49fa30398/SQL/images/Modeling.png)
 
 ---
 
@@ -68,6 +68,9 @@ The SQL script performs:
 
 ### Tourism Performance Analysis
 
+![Arrivals by Year](https://github.com/Ebrahim-azab/Depi-Graduation-project_Egypt-Tourism-Insights/blob/34da5f2c86dbdbad96503e857dd2bed49fa30398/SQL/images/Tourism%20Trend.png)
+
+![Arrivals by Year](https://github.com/Ebrahim-azab/Depi-Graduation-project_Egypt-Tourism-Insights/blob/34da5f2c86dbdbad96503e857dd2bed49fa30398/SQL/images/Top10%20Countries.png)
 
 Examples of analysis included:
 
