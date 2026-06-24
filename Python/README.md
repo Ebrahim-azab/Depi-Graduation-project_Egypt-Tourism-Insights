@@ -72,7 +72,7 @@ The analysis includes:
 * Total Tourist Arrivals by Year
 * Total Tourism Revenue by Year
 
-![Yearly Analysis](https://github.com/Ebrahim-azab/Depi-Graduation-project_Egypt-Tourism-Insights/blob/2ccb2a0055b6e7b751b14347378d6e364379085c/Screenshot%202026-06-24%20110102.png)
+![Yearly Analysis](https://github.com/Ebrahim-azab/Depi-Graduation-project_Egypt-Tourism-Insights/blob/main/Python/images/Yearly%20Tourism%20Performance.png)
 
 ---
 
@@ -82,7 +82,7 @@ Analysis of countries contributing the highest number of tourists.
 
 📷 Add Screenshot Here
 
-![Countries Analysis](images/countries_analysis.png)
+![Countries Analysis](https://github.com/Ebrahim-azab/Depi-Graduation-project_Egypt-Tourism-Insights/blob/main/Python/images/Top%20Tourist%20Source%20Countries.png)
 
 ---
 
@@ -92,7 +92,7 @@ Comparison of Egypt's most visited destinations.
 
 📷 Add Screenshot Here
 
-![Destinations Analysis](images/destinations_analysis.png)
+![Destinations Analysis](https://github.com/Ebrahim-azab/Depi-Graduation-project_Egypt-Tourism-Insights/blob/main/Python/images/Top%20Tourist%20Destinations.png)
 
 ---
 
@@ -102,7 +102,7 @@ Tourist arrivals grouped by quarter.
 
 📷 Add Screenshot Here
 
-![Quarterly Analysis](images/quarterly_analysis.png)
+![Quarterly Analysis](https://github.com/Ebrahim-azab/Depi-Graduation-project_Egypt-Tourism-Insights/blob/main/Python/images/Quarterly%20Analysis.png)
 
 ---
 
@@ -112,15 +112,6 @@ Revenue trends and performance comparison.
 
 📷 Add Screenshot Here
 
-![Revenue Analysis](images/revenue_analysis.png)
+![Revenue Analysis](https://github.com/Ebrahim-azab/Depi-Graduation-project_Egypt-Tourism-Insights/blob/main/Python/images/Revenue%20Analysis.png)
 
 ---
-
-## 📷 Dashboard & Visualizations
-
-### Dashboard Preview
-
-📷 Add Dashboard Screenshot Here
-
-![Dashboard](images/dashboard.png)
-
