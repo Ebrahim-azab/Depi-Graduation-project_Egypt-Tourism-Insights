@@ -80,7 +80,6 @@ The analysis includes:
 
 Analysis of countries contributing the highest number of tourists.
 
-📷 Add Screenshot Here
 
 ![Countries Analysis](https://github.com/Ebrahim-azab/Depi-Graduation-project_Egypt-Tourism-Insights/blob/main/Python/images/Top%20Tourist%20Source%20Countries.png)
 
@@ -90,7 +89,6 @@ Analysis of countries contributing the highest number of tourists.
 
 Comparison of Egypt's most visited destinations.
 
-📷 Add Screenshot Here
 
 ![Destinations Analysis](https://github.com/Ebrahim-azab/Depi-Graduation-project_Egypt-Tourism-Insights/blob/main/Python/images/Top%20Tourist%20Destinations.png)
 
@@ -100,7 +98,6 @@ Comparison of Egypt's most visited destinations.
 
 Tourist arrivals grouped by quarter.
 
-📷 Add Screenshot Here
 
 ![Quarterly Analysis](https://github.com/Ebrahim-azab/Depi-Graduation-project_Egypt-Tourism-Insights/blob/main/Python/images/Quarterly%20Analysis.png)
 
@@ -110,7 +107,6 @@ Tourist arrivals grouped by quarter.
 
 Revenue trends and performance comparison.
 
-📷 Add Screenshot Here
 
 ![Revenue Analysis](https://github.com/Ebrahim-azab/Depi-Graduation-project_Egypt-Tourism-Insights/blob/main/Python/images/Revenue%20Analysis.png)
 
