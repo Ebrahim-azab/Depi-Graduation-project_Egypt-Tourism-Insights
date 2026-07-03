@@ -10,7 +10,7 @@
 - 👨‍💻 Omar Abdelbaset
 - 👩‍💻 Malak Zidan
 - 👩‍💻 Arwa Youssef
-- 👩‍💻 Aya Ahmed Taha
+- 👩‍💻 Aya Ahmed
 
 ### 🎓 Instructor
 **Amal Mahmoud**
