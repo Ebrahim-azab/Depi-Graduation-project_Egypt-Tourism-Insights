@@ -32,7 +32,7 @@ The dashboard helps users explore tourism performance through interactive visual
 
 > **Insert Screenshot Here**
 
-![Dashboard Screenshot](images/dashboard.png)
+![Dashboard Screenshot](https://github.com/Ebrahim-azab/Depi-Graduation-project_Egypt-Tourism-Insights/blob/92ec9d59594906c5c648eff151bc7aae30165157/Tableau/Images/Overview.jpeg)
 
 ---
 
@@ -40,7 +40,7 @@ The dashboard helps users explore tourism performance through interactive visual
 
 > **Insert Screenshot Here**
 
-![Dashboard Screenshot](images/dashboard2.png)
+![Dashboard Screenshot](https://github.com/Ebrahim-azab/Depi-Graduation-project_Egypt-Tourism-Insights/blob/92ec9d59594906c5c648eff151bc7aae30165157/Tableau/Images/Sesonality.jpeg)
 
 ---
 
@@ -48,7 +48,7 @@ The dashboard helps users explore tourism performance through interactive visual
 
 > **Insert Screenshot Here**
 
-![Dashboard Screenshot](images/dashboard3.png)
+![Dashboard Screenshot](https://github.com/Ebrahim-azab/Depi-Graduation-project_Egypt-Tourism-Insights/blob/92ec9d59594906c5c648eff151bc7aae30165157/Tableau/Images/Tourist%20Behavior.jpeg)
 
 ---
 
