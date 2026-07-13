@@ -1,60 +1,162 @@
-🇪🇬 Egypt Tourism Power BI Dashboard (2005 - 2024)
+# 🇪🇬 Egypt Tourism Power BI Dashboard (2005–2024)
 
-📌 Project Overview
-This project features an interactive Power BI dashboard analyzing Egypt's tourism data from 2005 to 2024. The analysis explores trends in tourist arrivals, tourism revenue, visitor demographics, and regional performance. By combining multiple dimension tables with a central fact table, the dashboard generates actionable insights and visualizations to support data-driven decision-making in the tourism sector.
+An interactive **Power BI dashboard** that analyzes Egypt's tourism performance from **2005 to 2024**. The project transforms raw tourism data into actionable business insights through data modeling, DAX calculations, and interactive visualizations.
 
-🎯 Objectives
-Analyze tourist arrivals and revenue trends over a 20-year period.
+---
 
-Calculate and track the average spend per tourist.
+## 📖 Project Overview
 
-Identify the top purposes of visit (e.g., Leisure).
+This dashboard provides a comprehensive analysis of Egypt's tourism sector over a 20-year period. By combining multiple dimension tables with a centralized fact table using a **Star Schema** model, it enables users to explore tourism trends, visitor behavior, revenue performance, and destination popularity through interactive reports.
 
-Compare performance across different source countries and regions.
+The dashboard is designed to support data-driven decision-making for tourism stakeholders by presenting key metrics in a clear and intuitive format.
 
-Highlight top tourist destinations within Egypt.
+---
 
-Explore revenue distribution by quarter and geography.
+## 🎯 Objectives
 
-🛠️ Technologies Used
-Microsoft Power BI: For data visualization and dashboard creation.
+- Analyze tourism arrivals and revenue trends from **2005–2024**.
+- Measure and monitor the **average spending per tourist**.
+- Identify the most common **purposes of visit**.
+- Compare tourism performance across **countries and regions**.
+- Discover the most visited destinations in Egypt.
+- Analyze quarterly revenue distribution.
+- Build an interactive dashboard for dynamic data exploration.
 
-Power Query: For data cleaning, transformation, and shaping.
+---
 
-DAX (Data Analysis Expressions): For creating custom measures, calculated columns, and KPIs.
+## 🛠️ Technologies Used
 
-Data Modeling: Star Schema implementation.
+| Technology | Purpose |
+|------------|---------|
+| 📊 Power BI | Interactive Dashboard & Visualization |
+| 🔄 Power Query | Data Cleaning & Transformation |
+| 🧮 DAX | Measures, KPIs & Calculated Columns |
+| ⭐ Star Schema | Data Modeling |
 
-🗂️ Dataset Structure
-The project follows a Star Schema design optimized for Power BI:
+---
 
-Main_Data: Fact Table (Contains arrivals, revenue, and transactional data).
+## 🗂️ Data Model
 
-Dim_Country: Country Dimension.
+The dashboard is built using a **Star Schema** to improve performance and simplify analysis.
 
-Dim_Destination: Destination Dimension.
+| Table | Description |
+|-------|-------------|
+| **Main_Data** | Fact table containing tourist arrivals, revenue, and related metrics |
+| **Dim_Date** | Date dimension |
+| **Dim_Country** | Country dimension |
+| **Dim_Destination** | Tourist destination dimension |
 
-Dim_Date: Date Dimension.
+---
 
-📊 Dashboard Pages & Key Analyses
-1. Demographics
-Regional Breakdown: Tourist arrivals by source region (Western Europe, Eastern Europe, Middle East, etc.).
+# 📊 Dashboard Pages
 
-Transport Mode: Analysis of arrivals by Air, Land, and Sea.
+## 1️⃣ Demographics Dashboard
 
-Destination Insights: Average stay days by destination and top destinations by arrivals (Hurghada, Cairo, Sharm El Sheikh, Marsa Alam).
+This page focuses on understanding visitor demographics and travel behavior.
 
-Source Countries: Top countries by arrivals (Russia, Germany, UK, Italy, Saudi Arabia).
+### Key Insights
 
-![Image Description](https://github.com/Ebrahim-azab/Depi-Graduation-project_Egypt-Tourism-Insights/blob/cb202e0a7e10187e5bc6beaa784a293870a81690/Power%20bi/Images/Demographics.png)
+- 🌍 Tourist arrivals by source region.
+- ✈️ Arrivals by transportation mode (Air, Land, Sea).
+- 🏛 Average stay duration by destination.
+- 📍 Most visited destinations in Egypt.
+- 🌐 Top source countries by tourist arrivals.
 
-2. Performance
-Financial Trends: Historical comparison of Total Arrivals vs. Total Revenue by year.
+### Featured Destinations
 
-Geospatial Analysis: Revenue distribution mapped by destination name.
+- Hurghada
+- Cairo
+- Sharm El Sheikh
+- Marsa Alam
 
-Quarterly Performance: Revenue breakdown by quarter.
+### Top Source Countries
 
-Spending Habits: Average spend per tourist analyzed by country.
+- Russia
+- Germany
+- United Kingdom
+- Italy
+- Saudi Arabia
 
-![Image Description](https://github.com/Ebrahim-azab/Depi-Graduation-project_Egypt-Tourism-Insights/blob/cb202e0a7e10187e5bc6beaa784a293870a81690/Power%20bi/Images/Performance.png)
+### Dashboard Preview
+
+![Demographics Dashboard](Images/Demographics.png)
+
+---
+
+## 2️⃣ Performance Dashboard
+
+This page highlights Egypt's tourism performance through financial and operational metrics.
+
+### Key Insights
+
+- 📈 Total Arrivals vs. Total Revenue by Year.
+- 💰 Revenue trends over time.
+- 🗺 Revenue distribution across destinations.
+- 📅 Quarterly revenue analysis.
+- 💵 Average spend per tourist by country.
+
+### Dashboard Preview
+
+![Performance Dashboard](Images/Performance.png)
+
+---
+
+# 📌 KPIs Included
+
+- Total Tourist Arrivals
+- Total Tourism Revenue
+- Average Spend per Tourist
+- Average Stay Duration
+- Top Tourist Destination
+- Top Source Country
+- Revenue by Quarter
+
+---
+
+## ✨ Key Features
+
+- Interactive slicers and filters
+- Dynamic KPI cards
+- Time-series analysis
+- Geographic visualization
+- Regional comparison
+- Destination performance analysis
+- Drill-down capabilities
+
+---
+
+## 💡 Business Value
+
+This dashboard enables decision-makers to:
+
+- Monitor tourism growth over time.
+- Identify high-performing destinations.
+- Understand visitor demographics.
+- Compare regional tourism performance.
+- Track revenue generation.
+- Support tourism planning using data-driven insights.
+
+---
+
+## 📷 Dashboard Gallery
+
+### Demographics
+
+![Demographics Dashboard](Images/Demographics.png)
+
+### Performance
+
+![Performance Dashboard](Images/Performance.png)
+
+---
+
+## 🚀 Future Enhancements
+
+- Forecast tourism arrivals and revenue.
+- Add hotel occupancy analysis.
+- Integrate real-time tourism datasets.
+- Enhance geographical analysis with interactive maps.
+
+---
+
+## ⭐ If you found this project useful, consider giving the repository a Star!
