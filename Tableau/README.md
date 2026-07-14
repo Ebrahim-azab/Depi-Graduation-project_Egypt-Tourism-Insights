@@ -31,7 +31,7 @@ The dashboard helps users explore tourism performance through interactive visual
 
 ### Intro Dashboard
 
-![Intro Dashboard](./Tableau/Images/Intro.png)
+![Intro Dashboard](Tableau/Images)
 
 ---
 
