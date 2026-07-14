@@ -31,7 +31,7 @@ The dashboard helps users explore tourism performance through interactive visual
 
 ### Intro Dashboard
 
-![Intro Dashboard](Tableau/Images)
+![Intro Dashboard]([Tableau/Images](https://github.com/Ebrahim-azab/Depi-Graduation-project_Egypt-Tourism-Insights/blob/main/Tableau/Images/Intro.png))
 
 ---
 
