@@ -26,7 +26,6 @@ The dashboard helps users explore tourism performance through interactive visual
 
 ---
 
-## 📷 Dashboard Preview
 
 ## 📷 Dashboard Preview
 
