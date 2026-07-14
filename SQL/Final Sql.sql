@@ -416,14 +416,23 @@ ORDER BY
 /* ============================================================================
    2- Top 10 Source Countries by Revenue (in Billion USD)
    ============================================================================ */
+WITH RankedRevenue AS (
+    SELECT 
+        c.Country_Name,
+        ROUND(SUM(m.Tourism_Revenue_USD) / 1000000000, 2) AS Revenue_Billion_USD,
+        SUM(SUM(m.Tourism_Revenue_USD)) OVER (ORDER BY SUM(m.Tourism_Revenue_USD) DESC) AS Running_Total_Raw,
+        SUM(SUM(m.Tourism_Revenue_USD)) OVER () AS Total_Revenue_Raw
+    FROM main_data m
+    JOIN dim_country c 
+        ON m.Country_Key = c.Country_Key
+    GROUP BY 
+        c.Country_Name
+)
 SELECT 
-    c.Country_Name,
-    ROUND(SUM(m.Tourism_Revenue_USD) / 1000000000, 2) AS Revenue_Billion_USD
-FROM main_data m
-JOIN dim_country c 
-    ON m.Country_Key = c.Country_Key
-GROUP BY 
-    c.Country_Name
+    Country_Name,
+    Revenue_Billion_USD,
+    ROUND((Running_Total_Raw / Total_Revenue_Raw) * 100, 2) AS Running_Total_Percentage
+FROM RankedRevenue
 ORDER BY 
     Revenue_Billion_USD DESC
 LIMIT 10;
