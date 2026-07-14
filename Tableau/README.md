@@ -31,25 +31,25 @@ The dashboard helps users explore tourism performance through interactive visual
 
 ### Intro Dashboard
 
-![Intro Dashboard](https://github.com/Ebrahim-azab/Depi-Graduation-project_Egypt-Tourism-Insights/blob/main/Tableau/Images/Intro.png))
+![Intro Dashboard](https://github.com/Ebrahim-azab/Depi-Graduation-project_Egypt-Tourism-Insights/blob/main/Tableau/Images/Intro.png)
 
 ---
 
 ### Main Dashboard
 
-![Main Dashboard](https://github.com/Ebrahim-azab/Depi-Graduation-project_Egypt-Tourism-Insights/blob/main/Tableau/Images/Overview.png))
+![Main Dashboard](https://github.com/Ebrahim-azab/Depi-Graduation-project_Egypt-Tourism-Insights/blob/main/Tableau/Images/Overview.png)
 
 ---
 
 ### Additional Views
 
-![Seasonality Dashboard](./Tableau/Images/Sesonality.png)
+![Seasonality Dashboard](https://github.com/Ebrahim-azab/Depi-Graduation-project_Egypt-Tourism-Insights/blob/main/Tableau/Images/Sesonality.png)
 
 ---
 
 ### More Visualizations
 
-![Tourist Behavior Dashboard](./Tableau/Images/Tourist%20Behavior.png)
+![Tourist Behavior Dashboard](https://github.com/Ebrahim-azab/Depi-Graduation-project_Egypt-Tourism-Insights/blob/main/Tableau/Images/Tourist%20Behavior.png)
 
 ---
 
